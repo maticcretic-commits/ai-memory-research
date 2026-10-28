@@ -1,0 +1,7 @@
+AI Memory Research — Round 2. Individual work, do not collaborate with other partners. Return your report as plain text or markdown, 700-1000 words, plus a short list of your top 5 findings and top 3 open questions.
+
+Round 1 synthesis (all five partners converged): memory must go to decision, not just context, with calibrated confidence and an audit trail; talk-back is its own layer (surface, remind, warn, ask, explain) and silence is a measured success; confidence is per claim and per action, and high confidence grants no permission; storage is hybrid with SQLite as authoritative record and metadata filtering before vector ranking; stale/conflicting memory is the primary failure mode, handled by versioned supersession, never silent overwrites; poisoning and incomplete forgetting are open risks; and laboratory metrics are not production proof — zero real decision pairs is the hard gap, and no partner independently verified the system's internal figures.
+
+Round 2 task: design ONE concrete experiment in your lane that moves one of these gaps, with: hypothesis, exact setup, dataset size, metrics (including a silence or interruption metric where relevant), pass/fail criteria, risks, and what result would change the design. Cover also: what could go wrong with your experiment, and what it deliberately does NOT prove.
+
+Rules: verify every claim — no invented model names, companies, or statistics. Mark anything uncertain as uncertain. Plain language. Individual work only.
