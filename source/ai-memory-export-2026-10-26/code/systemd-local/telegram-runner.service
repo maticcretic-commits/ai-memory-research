@@ -1,0 +1,26 @@
+[Unit]
+Description=AI memory Telegram instant-reply runner (@nitesh_Muse_memory_bot)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+Environment=HOME=/home/hatch
+# The bot token is supplied ONLY through this permissions-locked
+# file (mode 600, directory 700, outside the repository). It holds
+# TELEGRAM_BOT_TOKEN; mm/telegram_channel.py reads it from the
+# environment at call time and fails closed when absent. No token
+# value appears in this unit or in any repository file.
+EnvironmentFile=/home/hatch/.config/ai-memory/telegram.env
+# This VM reaches the internet through a proxy; the runner needs the
+# same proxy variables the interactive shell has. Kept in a second
+# locked file beside the token file (mode 600). Optional: if absent,
+# direct egress is attempted instead.
+EnvironmentFile=-/home/hatch/.config/ai-memory/telegram-proxy.env
+WorkingDirectory=/home/hatch/workspace/ai-memory-milestone
+ExecStart=/usr/bin/python3 /home/hatch/workspace/ai-memory-milestone/tools/telegram_instant.py --db data/memory.db --poll-timeout 25
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
