@@ -1,0 +1,1112 @@
+{
+  "channel": "Sirio",
+  "channel_id": "UCNuJJ38qSq8LMiltOZTgzaw",
+  "channel_handle_studied": "@SirioBerati",
+  "channel_url": "https://www.youtube.com/channel/UCNuJJ38qSq8LMiltOZTgzaw",
+  "uploader": "Sirio",
+  "channel_is_verified": true,
+  "channel_follower_count_as_returned": 149000,
+  "channel_description": "Hey friend, I’m Sirio. An AI creator, educator & builder based in Canada. Founder of enhancor.ai\n\nI create tools, content, and systems to help you scale creativity with AI. Whether you’re a solo creator, agency, or brand. If you’ve ever felt overwhelmed by all the AI hype, this channel is your safe space. Real workflows, creative experiments, and things I wish I had when I was getting started.\n\nLet’s build something epic.\nCreate Without Limits.\n",
+  "channel_tags": [
+    "digital creator",
+    "ai",
+    "growth",
+    "creator",
+    "filmmaking",
+    "apps",
+    "apis",
+    "tech"
+  ],
+  "enumerated_at": "2026-10-28",
+  "method": "yt-dlp 2026.10.26 --flat-playlist -J on the Videos tab (45 entries), Shorts tab (90 entries), and Playlists tab (0 entries) of https://www.youtube.com/@SirioBerati. Full per-video metadata and subtitle fetching were blocked by a YouTube bot check; durations for Shorts are not present in flat data and are recorded as null, not estimated. Playlist memberships are empty: no public playlists were returned.",
+  "counts": {
+    "playlists_enumerated": 0,
+    "videos_tab_entries": 45,
+    "shorts_tab_entries": 90,
+    "unique_public_videos": 135,
+    "total_duration_seconds_videos_tab": 44277,
+    "transcripts_fetched": 0
+  },
+  "videos": [
+    {
+      "id": "m0yrlHPQkXY",
+      "title": "whatever I just built should not normally exist",
+      "url": "https://www.youtube.com/watch?v=m0yrlHPQkXY",
+      "duration_seconds": 173,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "nLojd8nU3Gk",
+      "title": "Was 70% of the Internet Really Hacked?",
+      "url": "https://www.youtube.com/watch?v=nLojd8nU3Gk",
+      "duration_seconds": 518,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "dXz1qkLc9PQ",
+      "title": "I Replaced 8 Hours of Video Editing with This (Open Source)",
+      "url": "https://www.youtube.com/watch?v=dXz1qkLc9PQ",
+      "duration_seconds": 1218,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "AgLijG7t1QU",
+      "title": "Make AI copy emotions from any scene (open source workflow)",
+      "url": "https://www.youtube.com/watch?v=AgLijG7t1QU",
+      "duration_seconds": 892,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "VbwJ9uZJuys",
+      "title": "Let me blow your mind with this secret Al business model",
+      "url": "https://www.youtube.com/watch?v=VbwJ9uZJuys",
+      "duration_seconds": 1663,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "d6spCMcfkew",
+      "title": "Dear Higgsfield, I reverse engineered you in 12 hours",
+      "url": "https://www.youtube.com/watch?v=d6spCMcfkew",
+      "duration_seconds": 1306,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "iE1poZizkxw",
+      "title": "It's OVER ... for real this time!!! (scary good)",
+      "url": "https://www.youtube.com/watch?v=iE1poZizkxw",
+      "duration_seconds": 701,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "M1NsJHcX9rY",
+      "title": "The CHEAPEST way to run Al UGC Ads (Claude +Seedance)",
+      "url": "https://www.youtube.com/watch?v=M1NsJHcX9rY",
+      "duration_seconds": 2175,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "FaIuo1Okbsc",
+      "title": "Genspark's Cloud Computer is INSANE!",
+      "url": "https://www.youtube.com/watch?v=FaIuo1Okbsc",
+      "duration_seconds": 737,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "mCavxK7UJ84",
+      "title": "She Isn't Real (The DEFINITIVE Al Influencer Pipeline)",
+      "url": "https://www.youtube.com/watch?v=mCavxK7UJ84",
+      "duration_seconds": 1060,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "DbuS0s4ywoQ",
+      "title": "Seedance 2 Just Changed AI UGC Ads (Full Breakdown)",
+      "url": "https://www.youtube.com/watch?v=DbuS0s4ywoQ",
+      "duration_seconds": 1475,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "qdQSRzgbAjc",
+      "title": "I Made $4M with AI workflows and I'll show you how",
+      "url": "https://www.youtube.com/watch?v=qdQSRzgbAjc",
+      "duration_seconds": 1854,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "ETGsBZncGD8",
+      "title": "I Built a 6-Node AI Workflow. Here's What's Actually Happening.",
+      "url": "https://www.youtube.com/watch?v=ETGsBZncGD8",
+      "duration_seconds": 701,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "PD7LRblgDv8",
+      "title": "She Isn't Real (The ULTIMATE Al Influencer Tutorial)",
+      "url": "https://www.youtube.com/watch?v=PD7LRblgDv8",
+      "duration_seconds": 1211,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "3GR-nnmLfFM",
+      "title": "I found a new winner (Seedance 1.5 Pro is good!)",
+      "url": "https://www.youtube.com/watch?v=3GR-nnmLfFM",
+      "duration_seconds": 881,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "D7J--ohBWxU",
+      "title": "I gave my AI influencer a consistent voice (new method)",
+      "url": "https://www.youtube.com/watch?v=D7J--ohBWxU",
+      "duration_seconds": 833,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "Mau6qlrv-Z0",
+      "title": "The Worlds Most Realistic 8K Al Upscaler (Open Source Code Included)",
+      "url": "https://www.youtube.com/watch?v=Mau6qlrv-Z0",
+      "duration_seconds": 1152,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "O0uyyb2EKWw",
+      "title": "Kling 2.6 Pro is the future of cinema!!",
+      "url": "https://www.youtube.com/watch?v=O0uyyb2EKWw",
+      "duration_seconds": 868,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "oM6z0B2YCK0",
+      "title": "We have a new #1 hyper realistic AI (Bye Nano Banana)",
+      "url": "https://www.youtube.com/watch?v=oM6z0B2YCK0",
+      "duration_seconds": 767,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "NpfEKTXBxrY",
+      "title": "She Isn’t Real (The DEFINITIVE AI Influencer Tutorial)",
+      "url": "https://www.youtube.com/watch?v=NpfEKTXBxrY",
+      "duration_seconds": 973,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "rO8t-KqbNfk",
+      "title": "Nano Banana Pro Found My Passport in 10 secs (is this even legal?)",
+      "url": "https://www.youtube.com/watch?v=rO8t-KqbNfk",
+      "duration_seconds": 931,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "_VSo-k0lcMo",
+      "title": "Why AI-Powered Creators Will Become the Next Billionaires",
+      "url": "https://www.youtube.com/watch?v=_VSo-k0lcMo",
+      "duration_seconds": 546,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "9xFSVqNFKJI",
+      "title": "Sora 2 Pro COOKED Hollywood (it reads time stamps)",
+      "url": "https://www.youtube.com/watch?v=9xFSVqNFKJI",
+      "duration_seconds": 727,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "AX0wNrdBdM8",
+      "title": "Remove Sora 2 Watermarks with AI (Open Source)",
+      "url": "https://www.youtube.com/watch?v=AX0wNrdBdM8",
+      "duration_seconds": 566,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "m7cdSfIiALE",
+      "title": "WAN Animate just broke the internet (Open-Source Character Replacement)",
+      "url": "https://www.youtube.com/watch?v=m7cdSfIiALE",
+      "duration_seconds": 1011,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "fYVXpDNlSVs",
+      "title": "Seedream 4 Is INSANE (12 Wild Demos)",
+      "url": "https://www.youtube.com/watch?v=fYVXpDNlSVs",
+      "duration_seconds": 570,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "1eF5ENSQyD8",
+      "title": "I built the entire Canva site in 30 mins with AI",
+      "url": "https://www.youtube.com/watch?v=1eF5ENSQyD8",
+      "duration_seconds": 548,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "Mi0sonWTlbI",
+      "title": "Unlimited AI Influencer videos (Full ComfyUI Infinitetalk Tutorial & Setup)",
+      "url": "https://www.youtube.com/watch?v=Mi0sonWTlbI",
+      "duration_seconds": 1225,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "ie4PBhWTO1c",
+      "title": "Draw-to-Edit with Nano Banana (Free and Open-Source Workflow)",
+      "url": "https://www.youtube.com/watch?v=ie4PBhWTO1c",
+      "duration_seconds": 714,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "m3phzLVQWsQ",
+      "title": "Nano Banana is WILD!! (officially released)",
+      "url": "https://www.youtube.com/watch?v=m3phzLVQWsQ",
+      "duration_seconds": 628,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "E-BenZQSGog",
+      "title": "The SECRET Photoshop Killer (NEW Insane AI Editing + Character Consistency)",
+      "url": "https://www.youtube.com/watch?v=E-BenZQSGog",
+      "duration_seconds": 331,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "V_LQnT6cWvs",
+      "title": "Build AI Apps with GPT-5 (with one prompt)",
+      "url": "https://www.youtube.com/watch?v=V_LQnT6cWvs",
+      "duration_seconds": 955,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "13Tv_1Kutho",
+      "title": "Is This the End of Real Actors? (Create Unlimited Consistent & Realistic AI Influencers)",
+      "url": "https://www.youtube.com/watch?v=13Tv_1Kutho",
+      "duration_seconds": 905,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "hqor6qax5ZU",
+      "title": "Create INSANE AI Text Animations from One Prompt (FREE & No VFX Software)",
+      "url": "https://www.youtube.com/watch?v=hqor6qax5ZU",
+      "duration_seconds": 792,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "O4KRwPqI0Us",
+      "title": "Create MIND BLOWING Cinematic AI Music Videos (Producers are DONE!!)",
+      "url": "https://www.youtube.com/watch?v=O4KRwPqI0Us",
+      "duration_seconds": 2176,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "OvKxAlcJthM",
+      "title": "This Albanian Song and Music Video Is Fully AI Generated",
+      "url": "https://www.youtube.com/watch?v=OvKxAlcJthM",
+      "duration_seconds": 173,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "E8egOh9C-Zw",
+      "title": "The Best AI Lip-Sync Tool Ever? It Crushes Deepfakes in Seconds (and Nobody Knows About It)",
+      "url": "https://www.youtube.com/watch?v=E8egOh9C-Zw",
+      "duration_seconds": 1286,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "onkhM9-404M",
+      "title": "This AI VFX Tool Just Killed After Effects (This Tool Is INSANE)",
+      "url": "https://www.youtube.com/watch?v=onkhM9-404M",
+      "duration_seconds": 708,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "bwJ8Xl6PxkM",
+      "title": "VEO 3 KILLER!! This Is the Future of AI Filmmaking (Consistent Multi-Shot Videos)",
+      "url": "https://www.youtube.com/watch?v=bwJ8Xl6PxkM",
+      "duration_seconds": 858,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "yGPWE5OHVWE",
+      "title": "Fix AI Plastic Skin INSTANTLY (Billboard-Ready Portraits)",
+      "url": "https://www.youtube.com/watch?v=yGPWE5OHVWE",
+      "duration_seconds": 825,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "_kYAkogj9WE",
+      "title": "Create Seamless AI Films from One Image (Consistent Characters & Backgrounds)",
+      "url": "https://www.youtube.com/watch?v=_kYAkogj9WE",
+      "duration_seconds": 732,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "tjLyAz5lyuE",
+      "title": "How to Make Your First Dollar with AI UGC in 2025 (Guaranteed)",
+      "url": "https://www.youtube.com/watch?v=tjLyAz5lyuE",
+      "duration_seconds": 2473,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "rEAPBT6_-TM",
+      "title": "OpenAI Introduced “io” and I generated an entire AI trailer for it",
+      "url": "https://www.youtube.com/watch?v=rEAPBT6_-TM",
+      "duration_seconds": 53,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "mi_ubF8_n8A",
+      "title": "How I Create Consistent & Realistic AI Characters (Full Workflow)",
+      "url": "https://www.youtube.com/watch?v=mi_ubF8_n8A",
+      "duration_seconds": 3056,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "37OnFjuCDR8",
+      "title": "Will AI replace creators?",
+      "url": "https://www.youtube.com/watch?v=37OnFjuCDR8",
+      "duration_seconds": 330,
+      "tab": "videos",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "tOvev-37Iu0",
+      "title": "Higgsfield's Genjutsu EXPOSED!!",
+      "url": "https://www.youtube.com/shorts/tOvev-37Iu0",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "rVXcF96bFO8",
+      "title": "You can VIBE TEST your apps with this crazy agent! 🤯",
+      "url": "https://www.youtube.com/shorts/rVXcF96bFO8",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "i8tgUdzw7yk",
+      "title": "The Collapse of The Truth (US vs Iran)",
+      "url": "https://www.youtube.com/shorts/i8tgUdzw7yk",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "u1ISmK1tx7A",
+      "title": "You are OFFICIALLY in permanent underclass!!",
+      "url": "https://www.youtube.com/shorts/u1ISmK1tx7A",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "pEdgBvMqw2U",
+      "title": "Seedream 5 Lite is here and it’s good!",
+      "url": "https://www.youtube.com/shorts/pEdgBvMqw2U",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "MSbn06tJCTQ",
+      "title": "Media is DEAD!",
+      "url": "https://www.youtube.com/shorts/MSbn06tJCTQ",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "uBRLwdkQkmU",
+      "title": "It’s OVER! Seedance 2.0 is fully uncensored!",
+      "url": "https://www.youtube.com/shorts/uBRLwdkQkmU",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "9KZj7W8vbWg",
+      "title": "OpenAI’s Codex 5.3 is terrifying!!! 😰",
+      "url": "https://www.youtube.com/shorts/9KZj7W8vbWg",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "J-ipyUWwdqU",
+      "title": "FREE First & Last Frame Extractor 🤯",
+      "url": "https://www.youtube.com/shorts/J-ipyUWwdqU",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "mw0FOUzWbCY",
+      "title": "This is how fake people are going viral",
+      "url": "https://www.youtube.com/shorts/mw0FOUzWbCY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "xZl6hihJNzo",
+      "title": "OpenAI cooked with the new Image 1.5 model 🤯",
+      "url": "https://www.youtube.com/shorts/xZl6hihJNzo",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "NkdS2eeET88",
+      "title": "The Future of Marketing 🤺",
+      "url": "https://www.youtube.com/shorts/NkdS2eeET88",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "lbk_XtVS7VM",
+      "title": "This video of Taylor Swift is 100% AI Generated",
+      "url": "https://www.youtube.com/shorts/lbk_XtVS7VM",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "KSSYIJlNd_8",
+      "title": "Nano Banana 2 is WILD!",
+      "url": "https://www.youtube.com/shorts/KSSYIJlNd_8",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "9YvQ5k-kdwM",
+      "title": "3 CRAZY Gemini 3 Hacks you should know!! 🤯",
+      "url": "https://www.youtube.com/shorts/9YvQ5k-kdwM",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "z_qzVRoFKVk",
+      "title": "Sora 2 creates CRAZY CONSISTENT videos!! (here's how) 🤯🤯",
+      "url": "https://www.youtube.com/shorts/z_qzVRoFKVk",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "BSkxQeImwd8",
+      "title": "It is officially game OVER!!",
+      "url": "https://www.youtube.com/shorts/BSkxQeImwd8",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "M94K2_HpGjc",
+      "title": "Why I Refuse to Sell My $3M Startup",
+      "url": "https://www.youtube.com/shorts/M94K2_HpGjc",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "1OfqMbsxa8U",
+      "title": "VFX artists are actually COOKED!! This AI is wild!",
+      "url": "https://www.youtube.com/shorts/1OfqMbsxa8U",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "Bupf3fNjV0c",
+      "title": "The MOST REALISTIC deepfakes by far!!",
+      "url": "https://www.youtube.com/shorts/Bupf3fNjV0c",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "OjITi3IiH50",
+      "title": "Wan Animate makes CRAZY deepfakes 🤯",
+      "url": "https://www.youtube.com/shorts/OjITi3IiH50",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "llQI0gJpm20",
+      "title": "Seedream 4 is WILD",
+      "url": "https://www.youtube.com/shorts/llQI0gJpm20",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "c373JPd40zg",
+      "title": "YC Combinator Refused My Startup (It makes $2.7M a year)",
+      "url": "https://www.youtube.com/shorts/c373JPd40zg",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "-NY2YCtH5VY",
+      "title": "Built Draw to Edit with Nano Banana 🤯",
+      "url": "https://www.youtube.com/shorts/-NY2YCtH5VY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "nQANqeJ6NXY",
+      "title": "Draw to Edit with Nano Banana 🤯🍌",
+      "url": "https://www.youtube.com/shorts/nQANqeJ6NXY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "qDX5DYmSQSA",
+      "title": "AI SaaS secrets REVEALED!! 🫡👀",
+      "url": "https://www.youtube.com/shorts/qDX5DYmSQSA",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "WiVbxN6wjHc",
+      "title": "FREE Runway Act-2 Alternative 🤯",
+      "url": "https://www.youtube.com/shorts/WiVbxN6wjHc",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "upmIhniX0mA",
+      "title": "This is The Next Wave of AI Apps and how you could build yours 🤯",
+      "url": "https://www.youtube.com/shorts/upmIhniX0mA",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "mLxaBEuhDbU",
+      "title": "Google RELEASED Nano Banana!!!",
+      "url": "https://www.youtube.com/shorts/mLxaBEuhDbU",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "TvS7ks1hvXE",
+      "title": "Anti-SaaS Playbook!! I made $150K in 90 Days. 🤯",
+      "url": "https://www.youtube.com/shorts/TvS7ks1hvXE",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "BtFN5YMV6tk",
+      "title": "Google’s going after Photoshop!! 🤯",
+      "url": "https://www.youtube.com/shorts/BtFN5YMV6tk",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "bCrJEnrBVXo",
+      "title": "How to build an AI SaaS",
+      "url": "https://www.youtube.com/shorts/bCrJEnrBVXo",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "EaI4K02sAt4",
+      "title": "0 to $1.8M ARR Solo!! NO VC!! #techtok",
+      "url": "https://www.youtube.com/shorts/EaI4K02sAt4",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "PNFceNpKbRk",
+      "title": "GPT-5 orders for me!! 🤯",
+      "url": "https://www.youtube.com/shorts/PNFceNpKbRk",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "cZGrUNGsOJ8",
+      "title": "GPT-5 Reveals the REAL Cost of Your Stuff!! 🤯🤯",
+      "url": "https://www.youtube.com/shorts/cZGrUNGsOJ8",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "zCn9i6PAti8",
+      "title": "GPT-5 builds CRAZY apps for FREE 🤯🤯",
+      "url": "https://www.youtube.com/shorts/zCn9i6PAti8",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "DTIzA2faVlc",
+      "title": "The MOST realistic AI image model to date!! INSANE!!",
+      "url": "https://www.youtube.com/shorts/DTIzA2faVlc",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "DNGHzxaFTvg",
+      "title": "It’s OVER for editors! CRAZY AI VFX!! 🤯🤯",
+      "url": "https://www.youtube.com/shorts/DNGHzxaFTvg",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "RX0zip8voeg",
+      "title": "You’ve Been LIED to About VEO 3 Prompts 🤥",
+      "url": "https://www.youtube.com/shorts/RX0zip8voeg",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "MtyWYZ4arUM",
+      "title": "Motion Graphics is DEAD! Create CRAZY AI text animation 🤯",
+      "url": "https://www.youtube.com/shorts/MtyWYZ4arUM",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "pwIuIq_YucI",
+      "title": "Wan 2.2 is a ABSOLUTELY crazy for being free!!",
+      "url": "https://www.youtube.com/shorts/pwIuIq_YucI",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "TO1aTeonqic",
+      "title": "THIS is how I will make my next $1M without doing ANYTHING!",
+      "url": "https://www.youtube.com/shorts/TO1aTeonqic",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "AplEizpjjK0",
+      "title": "BEST image to Video lipsync?! 😳🤯",
+      "url": "https://www.youtube.com/shorts/AplEizpjjK0",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "QCkOdM2lPpE",
+      "title": "We’re Racing Toward Our Own Extinction 😳",
+      "url": "https://www.youtube.com/shorts/QCkOdM2lPpE",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "pqXP-IDbWfY",
+      "title": "CRAZY AI deepfakes just dropped 🤯",
+      "url": "https://www.youtube.com/shorts/pqXP-IDbWfY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "d9zFGv29Jts",
+      "title": "How to train a REALISTIC AI model 🤯",
+      "url": "https://www.youtube.com/shorts/d9zFGv29Jts",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "zlJkqDIBzV0",
+      "title": "Real TIME AI Avatars are here!! 🤯",
+      "url": "https://www.youtube.com/shorts/zlJkqDIBzV0",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "rr0tydRLOrA",
+      "title": "Secret FREE AI Video models 🤯",
+      "url": "https://www.youtube.com/shorts/rr0tydRLOrA",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "-_oUhp9fbd4",
+      "title": "STOP taking business advice!!!",
+      "url": "https://www.youtube.com/shorts/-_oUhp9fbd4",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "ONh2UmP9eAw",
+      "title": "FREE trials DO NOT WORK! #aitools #aisaas",
+      "url": "https://www.youtube.com/shorts/ONh2UmP9eAw",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "gFh8R0ZoM8U",
+      "title": "Building the world's MOST realistic AI Image model #aitools #genai",
+      "url": "https://www.youtube.com/shorts/gFh8R0ZoM8U",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "nQOggaGMm60",
+      "title": "RIP After Effects? Did this AI VFX tool just take over?",
+      "url": "https://www.youtube.com/shorts/nQOggaGMm60",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "Ud4wa25N2Ec",
+      "title": "INSANE! You can now generate LIVE avatars in real time with no delay or waiting!!",
+      "url": "https://www.youtube.com/shorts/Ud4wa25N2Ec",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "e2TnypiuN_g",
+      "title": "GOOGLE VEO 3 is COOKED!! This is the new video model that's taking over! #aitools",
+      "url": "https://www.youtube.com/shorts/e2TnypiuN_g",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "aNIsLk5f4JY",
+      "title": "Consistent Multi-Shot Videos From Just One Image",
+      "url": "https://www.youtube.com/shorts/aNIsLk5f4JY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "lArkpsEu_Rs",
+      "title": "New Free AI tools for Creators #aitools #creative",
+      "url": "https://www.youtube.com/shorts/lArkpsEu_Rs",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "JB_KG-9GOmo",
+      "title": "This ad is 100% AI generated.",
+      "url": "https://www.youtube.com/shorts/JB_KG-9GOmo",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "b063plnM58E",
+      "title": "Create CGI with your products using ChatGPT #chatgpt #ai #productphotography #cgi",
+      "url": "https://www.youtube.com/shorts/b063plnM58E",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "9tKJb6Fverc",
+      "title": "AI does not replace but it… #tedx #ted #ai",
+      "url": "https://www.youtube.com/shorts/9tKJb6Fverc",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "8CVGiYHfuKA",
+      "title": "3D AI animation for fashion items. Took me 10 mins. #aigenerated #3d #animation #fashion #cinema4d",
+      "url": "https://www.youtube.com/shorts/8CVGiYHfuKA",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "fGS9WXYU7dY",
+      "title": "3 websites in 3hours with AI! #ai #website #tech",
+      "url": "https://www.youtube.com/shorts/fGS9WXYU7dY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "7OaAPQrNwjg",
+      "title": "AI is NOT magic!! #aigenerated #aitools",
+      "url": "https://www.youtube.com/shorts/7OaAPQrNwjg",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "Nhmnd7iLbf0",
+      "title": "Elon Musk Introduces Optimus. It is OVER 🤖 #elonmusk #tesla #optimus #robot",
+      "url": "https://www.youtube.com/shorts/Nhmnd7iLbf0",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "8OI-yT1ONvc",
+      "title": "AI is re-creating music videos now 🤯🫡 #music #theweeknd #aigenerated",
+      "url": "https://www.youtube.com/shorts/8OI-yT1ONvc",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "Yg-QlrElASY",
+      "title": "I achieved great Lip-syncing with AI! 🔥🫡 #kanyewest #aigenerated",
+      "url": "https://www.youtube.com/shorts/Yg-QlrElASY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "-Pl1DTQhtbA",
+      "title": "Taylor Swift time travels with AI!!! #taylor #erastour #taylorswift #aigenerated",
+      "url": "https://www.youtube.com/shorts/-Pl1DTQhtbA",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "vpce6aMlwbk",
+      "title": "I made Donald Trump TIME TRAVEL with AI!! #ai #donaldtrump",
+      "url": "https://www.youtube.com/shorts/vpce6aMlwbk",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "y-UhEsfeaWc",
+      "title": "Showcase your e-com clothes in a unique way with AI! #ai #ecom #fashion",
+      "url": "https://www.youtube.com/shorts/y-UhEsfeaWc",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "QLzP01rfovg",
+      "title": "iPhone 15 ad generated with AI! #iphone #apple #ai #aigenerated",
+      "url": "https://www.youtube.com/shorts/QLzP01rfovg",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "o3V0wBfUJ3U",
+      "title": "ChatGPT fixes my design mistakes!!! #chatgpt #ai #aieducation",
+      "url": "https://www.youtube.com/shorts/o3V0wBfUJ3U",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "wdg4SKzxNzo",
+      "title": "THIS is how to get AI wear your e-com products!!",
+      "url": "https://www.youtube.com/shorts/wdg4SKzxNzo",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "EnL9LEOlDUY",
+      "title": "VFX achieved with AI!! 🔥 #ai #aiart #vfx #vfxshorts #aicommunity",
+      "url": "https://www.youtube.com/shorts/EnL9LEOlDUY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "4PsMkZ__Nf4",
+      "title": "Image to Video with AI #ai #aigenerated #aivideo",
+      "url": "https://www.youtube.com/shorts/4PsMkZ__Nf4",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "gbAgIZRYsa4",
+      "title": "VFX done with AI 🚀",
+      "url": "https://www.youtube.com/shorts/gbAgIZRYsa4",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "A0GLi5AFAps",
+      "title": "VFX with AI!! 😱🤯",
+      "url": "https://www.youtube.com/shorts/A0GLi5AFAps",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "muzAfaLilq4",
+      "title": "Realize your ideas!! #creativity #creators #ideas",
+      "url": "https://www.youtube.com/shorts/muzAfaLilq4",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "yW6vpXMPsHs",
+      "title": "The harsh TRUTH about AI #ai #creators",
+      "url": "https://www.youtube.com/shorts/yW6vpXMPsHs",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "8eVvSWgPtvI",
+      "title": "The TRUTH about AI! #ai #creativity",
+      "url": "https://www.youtube.com/shorts/8eVvSWgPtvI",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "nrVdiu8g6Z8",
+      "title": "I re-designed a hotel with AI!!!!",
+      "url": "https://www.youtube.com/shorts/nrVdiu8g6Z8",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "6sMA2KjuNiY",
+      "title": "AI enhances human creativity 🤝🏻 #ai #artificialintelligence #creators",
+      "url": "https://www.youtube.com/shorts/6sMA2KjuNiY",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "xFrWe2Y1HjI",
+      "title": "This VFX video was generated with AI in 40 sec from a single pic",
+      "url": "https://www.youtube.com/shorts/xFrWe2Y1HjI",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "BCo2iskzgsU",
+      "title": "I generated a VFX video with AI in 40 seconds",
+      "url": "https://www.youtube.com/shorts/BCo2iskzgsU",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "xEqQ8McpElE",
+      "title": "AI enhances human creativity 🤝🏻",
+      "url": "https://www.youtube.com/shorts/xEqQ8McpElE",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "KCRS860ofdM",
+      "title": "Tsunami in Montreal!! 😱",
+      "url": "https://www.youtube.com/shorts/KCRS860ofdM",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "ZY7Wru_U4_8",
+      "title": "AI is getting scary 😱😬",
+      "url": "https://www.youtube.com/shorts/ZY7Wru_U4_8",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "tsqgdwYhEMo",
+      "title": "Turn your selfies to videos with AI #ai #generated #artificialintelligence #runwaygen3",
+      "url": "https://www.youtube.com/shorts/tsqgdwYhEMo",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "ZckjevMONXs",
+      "title": "AI helps you imagine #ai #artificialintelligence",
+      "url": "https://www.youtube.com/shorts/ZckjevMONXs",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "cFbRx4HoCeo",
+      "title": "Unleashing Creativity with AI: Bridging the Gap Between Vision and Creation #ai #create #imagine",
+      "url": "https://www.youtube.com/shorts/cFbRx4HoCeo",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "9S36_Ox2oBo",
+      "title": "A truth: Creativity is a birthright. #artificialintelligence #creativity #motivation",
+      "url": "https://www.youtube.com/shorts/9S36_Ox2oBo",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    },
+    {
+      "id": "3CtqBEt8XQ0",
+      "title": "AI is a partner, not a threat. #creator #ai #aiandart #tedx #learnai #learningvideos",
+      "url": "https://www.youtube.com/shorts/3CtqBEt8XQ0",
+      "duration_seconds": null,
+      "tab": "shorts",
+      "playlist_memberships": ""
+    }
+  ]
+}
