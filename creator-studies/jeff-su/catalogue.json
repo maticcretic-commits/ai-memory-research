@@ -1,0 +1,1972 @@
+{
+ "channel": "Jeff Su",
+ "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+ "channel_handle": "@JeffSu",
+ "channel_url": "https://www.youtube.com/@JeffSu",
+ "channel_follower_count_as_returned": 1940000,
+ "enumerated_at": "2026-10-28",
+ "method": "yt-dlp --flat-playlist on channel Videos tab (199 entries) plus all 13 playlists (268 memberships); union de-duplicated by video ID. Flat data carries no upload dates; durations as returned.",
+ "playlists_enumerated": [
+  {
+   "id": "PLo-kPya_Ww2zsTt9-c94kVGa1GVEfivoW",
+   "title": "Claude Cowork Tutorials (by Jeff Su)",
+   "entries": 4
+  },
+  {
+   "id": "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL",
+   "title": "Notion for Productivity",
+   "entries": 18
+  },
+  {
+   "id": "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+   "title": "Hidden Gems of Google Workspace",
+   "entries": 18
+  },
+  {
+   "id": "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+   "title": "The AI Edge: Work Smarter, Not Harder",
+   "entries": 47
+  },
+  {
+   "id": "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG",
+   "title": "🍎 MacBook Tips & Tricks 💻",
+   "entries": 11
+  },
+  {
+   "id": "PLo-kPya_Ww2zYYTicVo2UvzWeQr-4WIY6",
+   "title": "Think Outside the Box",
+   "entries": 5
+  },
+  {
+   "id": "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+   "title": "Succeed in the Workplace",
+   "entries": 27
+  },
+  {
+   "id": "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+   "title": "Be Productive at Life",
+   "entries": 31
+  },
+  {
+   "id": "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW",
+   "title": "LinkedIn Tips & Tricks",
+   "entries": 10
+  },
+  {
+   "id": "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP",
+   "title": "Common Interview Questions and Answers",
+   "entries": 18
+  },
+  {
+   "id": "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO",
+   "title": "the vlog",
+   "entries": 10
+  },
+  {
+   "id": "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i",
+   "title": "Increase Your Productivity at Work",
+   "entries": 48
+  },
+  {
+   "id": "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z",
+   "title": "How to Land Job Interviews",
+   "entries": 21
+  }
+ ],
+ "videos": [
+  {
+   "id": "9ql1CQfxWxQ",
+   "title": null,
+   "url": "https://www.youtube.com/watch?v=9ql1CQfxWxQ",
+   "duration_s": null,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "al1QXFQjq1s",
+   "title": null,
+   "url": "https://www.youtube.com/watch?v=al1QXFQjq1s",
+   "duration_s": null,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "O8TzmWQTLx4",
+   "title": null,
+   "url": "https://www.youtube.com/watch?v=O8TzmWQTLx4",
+   "duration_s": null,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "-xXc7qeiC8I",
+   "title": "10 BEST Mac Apps for Productivity!",
+   "url": "https://www.youtube.com/watch?v=-xXc7qeiC8I",
+   "duration_s": 699,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "fTIupIVKbEM",
+   "title": "10 Best Practices for Project Management Spreadsheets!",
+   "url": "https://www.youtube.com/watch?v=fTIupIVKbEM",
+   "duration_s": 497,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "4rlqUHS9fgg",
+   "title": "10 BEST Productivity Tips for Google Docs!",
+   "url": "https://www.youtube.com/watch?v=4rlqUHS9fgg",
+   "duration_s": 831,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "3_6eRpTkBD8",
+   "title": "10 Gmail Productivity Tips that Changed My Life!",
+   "url": "https://www.youtube.com/watch?v=3_6eRpTkBD8",
+   "duration_s": 519,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "POZorIoSK5c",
+   "title": "10 INCREDIBLE things Google Sheets can do Right Now!",
+   "url": "https://www.youtube.com/watch?v=POZorIoSK5c",
+   "duration_s": 807,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "JqKB97HpWrk",
+   "title": "10 Mac Apps You Haven't Heard Of (but should be using)",
+   "url": "https://www.youtube.com/watch?v=JqKB97HpWrk",
+   "duration_s": 762,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG"
+   ]
+  },
+  {
+   "id": "5XfR6xBBXhw",
+   "title": "10 MUST-KNOW Macbook Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=5XfR6xBBXhw",
+   "duration_s": 391,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG"
+   ]
+  },
+  {
+   "id": "Gmo1FV2o5L8",
+   "title": "10 ONE-MINUTE Email Habits for Productivity!",
+   "url": "https://www.youtube.com/watch?v=Gmo1FV2o5L8",
+   "duration_s": 386,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "qcis85AStL4",
+   "title": "10 Years of Google Presentation Advice in 10 Minutes",
+   "url": "https://www.youtube.com/watch?v=qcis85AStL4",
+   "duration_s": 546,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "8IzMQxibfoU",
+   "title": "11 Hidden Apple Photos Features You MUST Know!",
+   "url": "https://www.youtube.com/watch?v=8IzMQxibfoU",
+   "duration_s": 313,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "IBLoq8faKks",
+   "title": "11 MUST HAVE Extensions for Productivity!",
+   "url": "https://www.youtube.com/watch?v=IBLoq8faKks",
+   "duration_s": 535,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "DIuo_QL4sAQ",
+   "title": "14 Google Tips that will Save You Hundreds of Hours!",
+   "url": "https://www.youtube.com/watch?v=DIuo_QL4sAQ",
+   "duration_s": 412,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "QQKHhri48Ps",
+   "title": "15 MORE Google Calendar Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=QQKHhri48Ps",
+   "duration_s": 501,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "CPYwVRtlxms",
+   "title": "15 MUST-KNOW Notion tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=CPYwVRtlxms",
+   "duration_s": 536,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "98dnBA5WYLY",
+   "title": "15 Spreadsheet Formulas Working Professionals Should Know!",
+   "url": "https://www.youtube.com/watch?v=98dnBA5WYLY",
+   "duration_s": 882,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "v-9CVpuoIEo",
+   "title": "20 Gmail Settings EVERYONE Needs to Change!",
+   "url": "https://www.youtube.com/watch?v=v-9CVpuoIEo",
+   "duration_s": 483,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "31cp_OXKzkI",
+   "title": "3 AI Habits So Powerful It Feels Like Cheating",
+   "url": "https://www.youtube.com/watch?v=31cp_OXKzkI",
+   "duration_s": 650,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "Fq1Yb4kepLo",
+   "title": "3 FREE Tools to Create ENGAGING Presentations!",
+   "url": "https://www.youtube.com/watch?v=Fq1Yb4kepLo",
+   "duration_s": 425,
+   "playlists": [
+    "PLo-kPya_Ww2zYYTicVo2UvzWeQr-4WIY6"
+   ]
+  },
+  {
+   "id": "czGaqnHQyyk",
+   "title": "3 Mistakes to AVOID at Work!",
+   "url": "https://www.youtube.com/watch?v=czGaqnHQyyk",
+   "duration_s": 541,
+   "playlists": []
+  },
+  {
+   "id": "v0NjRqblySI",
+   "title": "3 Workspace Templates that TRIPLED My Productivity",
+   "url": "https://www.youtube.com/watch?v=v0NjRqblySI",
+   "duration_s": 412,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "6hRO1q8vv60",
+   "title": "4 ChatGPT Hacks that Cut My Workload in Half",
+   "url": "https://www.youtube.com/watch?v=6hRO1q8vv60",
+   "duration_s": 649,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "5c9SapE_YNU",
+   "title": "4 FREE Tools to Improve Your Next Presentation!",
+   "url": "https://www.youtube.com/watch?v=5c9SapE_YNU",
+   "duration_s": 455,
+   "playlists": [
+    "PLo-kPya_Ww2zYYTicVo2UvzWeQr-4WIY6",
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "s_765enJBy8",
+   "title": "4 Skills I’m Learning that AI Can’t Replace (backed by data)",
+   "url": "https://www.youtube.com/watch?v=s_765enJBy8",
+   "duration_s": 732,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "99-bTIKU8OE",
+   "title": "5 Habits I Ignored in My 20s",
+   "url": "https://www.youtube.com/watch?v=99-bTIKU8OE",
+   "duration_s": 508,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "V_L2aWCdO4A",
+   "title": "5 Informational Interview Mistakes to Avoid!",
+   "url": "https://www.youtube.com/watch?v=V_L2aWCdO4A",
+   "duration_s": 515,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "OKF7ZeWNrfg",
+   "title": "5 LinkedIn Profile Tips that Get You Hired (backed by data)",
+   "url": "https://www.youtube.com/watch?v=OKF7ZeWNrfg",
+   "duration_s": 586,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW"
+   ]
+  },
+  {
+   "id": "OHTRZKg2LS0",
+   "title": "5 MUST-DO LinkedIn Profile Tips (that pay off forever)!",
+   "url": "https://www.youtube.com/watch?v=OHTRZKg2LS0",
+   "duration_s": 397,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW"
+   ]
+  },
+  {
+   "id": "B4OhuzwLc9o",
+   "title": "5 MUST-KNOW LinkedIn Profile Tips for Job Seekers!",
+   "url": "https://www.youtube.com/watch?v=B4OhuzwLc9o",
+   "duration_s": 491,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW"
+   ]
+  },
+  {
+   "id": "P0sew9TBPJ0",
+   "title": "5 Questions You MUST Ask During a Job Interview!",
+   "url": "https://www.youtube.com/watch?v=P0sew9TBPJ0",
+   "duration_s": 299,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "pjqi_M3SPwY",
+   "title": "5 Resume Mistakes You MUST Avoid (with real examples)!",
+   "url": "https://www.youtube.com/watch?v=pjqi_M3SPwY",
+   "duration_s": 401,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "nuosoMyf0eA",
+   "title": "5 Small Changes to Improve Your Presentations Forever!",
+   "url": "https://www.youtube.com/watch?v=nuosoMyf0eA",
+   "duration_s": 555,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "bQV58TZW6hQ",
+   "title": "5 Steps to Get Your Next Promotion at Work!",
+   "url": "https://www.youtube.com/watch?v=bQV58TZW6hQ",
+   "duration_s": 386,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "Im7O5zkQIwY",
+   "title": "5 Things I Wish I Knew Before Joining FAANG!",
+   "url": "https://www.youtube.com/watch?v=Im7O5zkQIwY",
+   "duration_s": 486,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "j9YeEQR8nKQ",
+   "title": "5 Things You MUST Do After Starting a New Job!",
+   "url": "https://www.youtube.com/watch?v=j9YeEQR8nKQ",
+   "duration_s": 424,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "EDkaQj7K5_c",
+   "title": "5 Ways I Actually Use ChatGPT at Work!",
+   "url": "https://www.youtube.com/watch?v=EDkaQj7K5_c",
+   "duration_s": 648,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "SHKHEutyukc",
+   "title": "6 Email Tips Working Professionals Need to Know!",
+   "url": "https://www.youtube.com/watch?v=SHKHEutyukc",
+   "duration_s": 401,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "opAitsO3o90",
+   "title": "6 Months on YouTube | What I've Learned",
+   "url": "https://www.youtube.com/watch?v=opAitsO3o90",
+   "duration_s": 567,
+   "playlists": []
+  },
+  {
+   "id": "LWz57CpcSnE",
+   "title": "6 Tips for Productive 1:1 Meetings with Your Manager",
+   "url": "https://www.youtube.com/watch?v=LWz57CpcSnE",
+   "duration_s": 378,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "gkYNdy-Hig4",
+   "title": "6 Underrated Macbook Apps for Productivity!",
+   "url": "https://www.youtube.com/watch?v=gkYNdy-Hig4",
+   "duration_s": 489,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG"
+   ]
+  },
+  {
+   "id": "w0Bf4u-u9AQ",
+   "title": "7 Creative Ways to use Canva!",
+   "url": "https://www.youtube.com/watch?v=w0Bf4u-u9AQ",
+   "duration_s": 687,
+   "playlists": [
+    "PLo-kPya_Ww2zYYTicVo2UvzWeQr-4WIY6"
+   ]
+  },
+  {
+   "id": "jizZKNnx9wA",
+   "title": "7 Effective Tips for Presenting Data at Work!",
+   "url": "https://www.youtube.com/watch?v=jizZKNnx9wA",
+   "duration_s": 452,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "UJM83-zb3c4",
+   "title": "7 FREE Productivity Tools You Didn't Know Existed!",
+   "url": "https://www.youtube.com/watch?v=UJM83-zb3c4",
+   "duration_s": 464,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "VbugqgTtF-Q",
+   "title": "7 Job Interview Questions to Prepare For!",
+   "url": "https://www.youtube.com/watch?v=VbugqgTtF-Q",
+   "duration_s": 423,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "5wewhjpsO3c",
+   "title": "7 Productivity Secrets for Watching YouTube Videos!",
+   "url": "https://www.youtube.com/watch?v=5wewhjpsO3c",
+   "duration_s": 496,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "cwT7k5oBqBs",
+   "title": "8 Calendar Mistakes to Avoid (for busy people)!",
+   "url": "https://www.youtube.com/watch?v=cwT7k5oBqBs",
+   "duration_s": 516,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "1XctnF7C74s",
+   "title": "8 Email Etiquette Tips - How to Write Better Emails at Work",
+   "url": "https://www.youtube.com/watch?v=1XctnF7C74s",
+   "duration_s": 421,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "4GqqptRI4Do",
+   "title": "8 Google Calendar Settings Everyone Must Turn ON!",
+   "url": "https://www.youtube.com/watch?v=4GqqptRI4Do",
+   "duration_s": 499,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "QHrWMMlVYRA",
+   "title": "8 Productivity Tips for Work (that pay off forever)!",
+   "url": "https://www.youtube.com/watch?v=QHrWMMlVYRA",
+   "duration_s": 494,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "-jCyuBLLcvs",
+   "title": "8 Tips to KEEP Track of Things Productively!",
+   "url": "https://www.youtube.com/watch?v=-jCyuBLLcvs",
+   "duration_s": 493,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "-O-10X-HFB0",
+   "title": "9 Microsoft Edge Features Chrome Doesn't Have (...yet)",
+   "url": "https://www.youtube.com/watch?v=-O-10X-HFB0",
+   "duration_s": 568,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "gcJDDSv7Gq8",
+   "title": "9 UNREAL File & Media Management Apps for Mac!",
+   "url": "https://www.youtube.com/watch?v=gcJDDSv7Gq8",
+   "duration_s": 648,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "1lRsu_bHjJ0",
+   "title": "9+ AMAZING Google Meet Tips You Should Know",
+   "url": "https://www.youtube.com/watch?v=1lRsu_bHjJ0",
+   "duration_s": 403,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj"
+   ]
+  },
+  {
+   "id": "iRTK-jsfleg",
+   "title": "95% of People STILL Prompt ChatGPT-5 Wrong",
+   "url": "https://www.youtube.com/watch?v=iRTK-jsfleg",
+   "duration_s": 711,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "nVyD6THcvDQ",
+   "title": "99% of Beginners Don't Know the Basics of AI",
+   "url": "https://www.youtube.com/watch?v=nVyD6THcvDQ",
+   "duration_s": 612,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "FypvQrwvENk",
+   "title": "A Day in My Life at Google (8 years in)",
+   "url": "https://www.youtube.com/watch?v=FypvQrwvENk",
+   "duration_s": 666,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "k3tk9IbLJok",
+   "title": "A Day in the Life of a Product Marketer (Work From Home Edition)",
+   "url": "https://www.youtube.com/watch?v=k3tk9IbLJok",
+   "duration_s": 483,
+   "playlists": [
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "_9pKAG_XabM",
+   "title": "A GENIUS Way to use ChatGPT for Presentations!",
+   "url": "https://www.youtube.com/watch?v=_9pKAG_XabM",
+   "duration_s": 458,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "oeiCU99kujo",
+   "title": "A Productive Business Trip to Beijing (as a Product Marketer)",
+   "url": "https://www.youtube.com/watch?v=oeiCU99kujo",
+   "duration_s": 427,
+   "playlists": [
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "XXYfRgXTEE0",
+   "title": "A Productive Notion Daily Planner!",
+   "url": "https://www.youtube.com/watch?v=XXYfRgXTEE0",
+   "duration_s": 486,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "s8RnhqYYz3E",
+   "title": "A Simple Book Notes Template (for Notion)!",
+   "url": "https://www.youtube.com/watch?v=s8RnhqYYz3E",
+   "duration_s": 451,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "U8LKXbUxf-M",
+   "title": "Achieve INBOX ZERO on Outlook (in 10 minutes)!",
+   "url": "https://www.youtube.com/watch?v=U8LKXbUxf-M",
+   "duration_s": 670,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "FwOTs4UxQS4",
+   "title": "AI Agents, Clearly Explained",
+   "url": "https://www.youtube.com/watch?v=FwOTs4UxQS4",
+   "duration_s": 609,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "wZn3WoZALnU",
+   "title": "An Unusual Morning Routine (in LOCKDOWN)",
+   "url": "https://www.youtube.com/watch?v=wZn3WoZALnU",
+   "duration_s": 496,
+   "playlists": [
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "bkf3XBOj2PE",
+   "title": "Beginner to Pro with ChatGPT in One Video!",
+   "url": "https://www.youtube.com/watch?v=bkf3XBOj2PE",
+   "duration_s": 525,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "gCnSozvvMMM",
+   "title": "Best MacBook Keyboard Shortcuts for Productivity!",
+   "url": "https://www.youtube.com/watch?v=gCnSozvvMMM",
+   "duration_s": 720,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "4wvLHFgnQZQ",
+   "title": "Claude Cowork: Top 5 Tips for Productivity",
+   "url": "https://www.youtube.com/watch?v=4wvLHFgnQZQ",
+   "duration_s": 1070,
+   "playlists": [
+    "PLo-kPya_Ww2zsTt9-c94kVGa1GVEfivoW",
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "VeWf0l4ci6Y",
+   "title": "Claude Design is Insanely Easy - Become a Pro in 14 Minutes!",
+   "url": "https://www.youtube.com/watch?v=VeWf0l4ci6Y",
+   "duration_s": 877,
+   "playlists": [
+    "PLo-kPya_Ww2zsTt9-c94kVGa1GVEfivoW",
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "vIJAdMoxCc4",
+   "title": "Clean Modern Desk Tour | Dual Monitor Setup",
+   "url": "https://www.youtube.com/watch?v=vIJAdMoxCc4",
+   "duration_s": 420,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "hGFNB4E2Aoo",
+   "title": "Dating, FOMO, Perfectionism: 100K Q&A",
+   "url": "https://www.youtube.com/watch?v=hGFNB4E2Aoo",
+   "duration_s": 1130,
+   "playlists": [
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "wBi8IDngmiE",
+   "title": "DeepSeek: What Actually Matters (for the everyday user)",
+   "url": "https://www.youtube.com/watch?v=wBi8IDngmiE",
+   "duration_s": 803,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "lcRILuvAWgU",
+   "title": "Did I Waste 2 Years in Management Consulting?",
+   "url": "https://www.youtube.com/watch?v=lcRILuvAWgU",
+   "duration_s": 321,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "gZ2354BH0a0",
+   "title": "Don't Use STAR in Your Next Interview (Do This Instead)!",
+   "url": "https://www.youtube.com/watch?v=gZ2354BH0a0",
+   "duration_s": 447,
+   "playlists": []
+  },
+  {
+   "id": "OOYmBRr3zVs",
+   "title": "Easily Manage Complex Projects in Notion!",
+   "url": "https://www.youtube.com/watch?v=OOYmBRr3zVs",
+   "duration_s": 567,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "cr6ptEK-Mgs",
+   "title": "Explain an Employment Gap in a Job Interview",
+   "url": "https://www.youtube.com/watch?v=cr6ptEK-Mgs",
+   "duration_s": 388,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "dVxMrVJ58as",
+   "title": "First 18 Things to Do for Productivity // New Macbook Pro!",
+   "url": "https://www.youtube.com/watch?v=dVxMrVJ58as",
+   "duration_s": 523,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG"
+   ]
+  },
+  {
+   "id": "7GkIWPPC9i0",
+   "title": "Gemini Spark: Google’s Most Powerful Personal Agent",
+   "url": "https://www.youtube.com/watch?v=7GkIWPPC9i0",
+   "duration_s": 943,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "E7YiKBeOneo",
+   "title": "Give Me 9 Minutes, I'll Make You AI-Native",
+   "url": "https://www.youtube.com/watch?v=E7YiKBeOneo",
+   "duration_s": 535,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "aKDqz07y2Mw",
+   "title": "Google Keep: Top 11 Tips for Insane Digital Organization!",
+   "url": "https://www.youtube.com/watch?v=aKDqz07y2Mw",
+   "duration_s": 475,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "ONa85JLNahw",
+   "title": "Google Tasks: Top 10 Tips for Getting Things Done!",
+   "url": "https://www.youtube.com/watch?v=ONa85JLNahw",
+   "duration_s": 493,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj"
+   ]
+  },
+  {
+   "id": "Yq0QkCxoTHM",
+   "title": "Google’s AI Course for Beginners (in 10 minutes)!",
+   "url": "https://www.youtube.com/watch?v=Yq0QkCxoTHM",
+   "duration_s": 558,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "o64Mv-ArFDI",
+   "title": "Google’s NEW Prompting Guide is Incredible!",
+   "url": "https://www.youtube.com/watch?v=o64Mv-ArFDI",
+   "duration_s": 551,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "IW472-d_8bs",
+   "title": "Here’s the BIGGEST Mistake Found on Resumes!",
+   "url": "https://www.youtube.com/watch?v=IW472-d_8bs",
+   "duration_s": 365,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "lriCkWIHEHs",
+   "title": "How I Manage My Time - 8 Tips that Changed My Life",
+   "url": "https://www.youtube.com/watch?v=lriCkWIHEHs",
+   "duration_s": 603,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "bP8wTapHsbc",
+   "title": "How I Never Forget a Single Task (Todoist + Notion Workflow)",
+   "url": "https://www.youtube.com/watch?v=bP8wTapHsbc",
+   "duration_s": 439,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "_RTqbo5ZZ2k",
+   "title": "How I Organize My Life | Notion Tour 2026",
+   "url": "https://www.youtube.com/watch?v=_RTqbo5ZZ2k",
+   "duration_s": 687,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "msFxQ7OYPj8",
+   "title": "How I'd Learn AI From Scratch in 2026 (skip the useless 80%)",
+   "url": "https://www.youtube.com/watch?v=msFxQ7OYPj8",
+   "duration_s": 797,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "ZqNorUIgIe8",
+   "title": "How to Answer an Interview Question you DIDN'T Prepare For",
+   "url": "https://www.youtube.com/watch?v=ZqNorUIgIe8",
+   "duration_s": 426,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "Oo_GGWV9Hys",
+   "title": "How to Build a Prompts Database in Notion (template included)!",
+   "url": "https://www.youtube.com/watch?v=Oo_GGWV9Hys",
+   "duration_s": 965,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL",
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "0-0gFuDwmXI",
+   "title": "How to Create Cinematic AI Videos (No-BS Guide)",
+   "url": "https://www.youtube.com/watch?v=0-0gFuDwmXI",
+   "duration_s": 1021,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "cYbcgtK0v_Q",
+   "title": "How to Get Started with Notion (without losing your mind)",
+   "url": "https://www.youtube.com/watch?v=cYbcgtK0v_Q",
+   "duration_s": 1096,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "e2_HXKNIzaM",
+   "title": "How to Negotiate a Higher Salary: 3 Evidence-Based Tips!",
+   "url": "https://www.youtube.com/watch?v=e2_HXKNIzaM",
+   "duration_s": 479,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "J30wmYgzVXM",
+   "title": "How to Negotiate Salary after Job Offer | 5 Practical Tips",
+   "url": "https://www.youtube.com/watch?v=J30wmYgzVXM",
+   "duration_s": 462,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "AA4lVbiRlGw",
+   "title": "How to Network with ZERO Working Experience!",
+   "url": "https://www.youtube.com/watch?v=AA4lVbiRlGw",
+   "duration_s": 384,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "8MYHrih6syw",
+   "title": "How to Research Before an Interview (3 Practical Tools)",
+   "url": "https://www.youtube.com/watch?v=8MYHrih6syw",
+   "duration_s": 588,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "T0qhJdHLJTc",
+   "title": "How to Take Notes for Work | Note-taking Tutorial for Professionals",
+   "url": "https://www.youtube.com/watch?v=T0qhJdHLJTc",
+   "duration_s": 585,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "vYKyTNlUHCo",
+   "title": "How to Take Notes Productively (Notion Template Included)",
+   "url": "https://www.youtube.com/watch?v=vYKyTNlUHCo",
+   "duration_s": 629,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "p5EbFW-0lWQ",
+   "title": "How to use Google Drive for Mac (Tutorial & Features)!",
+   "url": "https://www.youtube.com/watch?v=p5EbFW-0lWQ",
+   "duration_s": 408,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "kPbaFI-_dN4",
+   "title": "Humor, Arrogance, and Relationships - Answering Your Assumptions (#teamseas)",
+   "url": "https://www.youtube.com/watch?v=kPbaFI-_dN4",
+   "duration_s": 738,
+   "playlists": [
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "CvHFg5ASuh8",
+   "title": "I Built a Personal CRM on Notion (template included)!",
+   "url": "https://www.youtube.com/watch?v=CvHFg5ASuh8",
+   "duration_s": 519,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "ofzHbyxkpVg",
+   "title": "I knew AI + Notion would be good, but this... wow.",
+   "url": "https://www.youtube.com/watch?v=ofzHbyxkpVg",
+   "duration_s": 861,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "RudrWy9uPZE",
+   "title": "I Switched 50% of My AI Work to Claude, Here's Why",
+   "url": "https://www.youtube.com/watch?v=RudrWy9uPZE",
+   "duration_s": 764,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "ZXmbb5fPfgk",
+   "title": "I wish every Job Seeker would watch this",
+   "url": "https://www.youtube.com/watch?v=ZXmbb5fPfgk",
+   "duration_s": 522,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "4b2iagdHw8M",
+   "title": "Informational Interviews: Best Questions to Ask",
+   "url": "https://www.youtube.com/watch?v=4b2iagdHw8M",
+   "duration_s": 371,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "b3B24wl3gCQ",
+   "title": "Intro to Event Planning & Management (with Google Sheets)",
+   "url": "https://www.youtube.com/watch?v=b3B24wl3gCQ",
+   "duration_s": 347,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "CwjwnHJE5sU",
+   "title": "Job Search on LinkedIn: The 1 Tip You Need to Know!",
+   "url": "https://www.youtube.com/watch?v=CwjwnHJE5sU",
+   "duration_s": 366,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW"
+   ]
+  },
+  {
+   "id": "D7DIHNK2DYw",
+   "title": "Job Seekers on LinkedIn Need to Know These 8 Things",
+   "url": "https://www.youtube.com/watch?v=D7DIHNK2DYw",
+   "duration_s": 527,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "pmnY5V16GSE",
+   "title": "Land a Job using ChatGPT: The Definitive Guide!",
+   "url": "https://www.youtube.com/watch?v=pmnY5V16GSE",
+   "duration_s": 619,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "z9rdrNrkvDY",
+   "title": "Learn 80% of Claude Cowork in Under 20 Minutes",
+   "url": "https://www.youtube.com/watch?v=z9rdrNrkvDY",
+   "duration_s": 1135,
+   "playlists": [
+    "PLo-kPya_Ww2zsTt9-c94kVGa1GVEfivoW",
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "EOmgC3-hznM",
+   "title": "Learn 80% of NotebookLM in Under 13 Minutes!",
+   "url": "https://www.youtube.com/watch?v=EOmgC3-hznM",
+   "duration_s": 756,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "YoWdogtZRw8",
+   "title": "Learn 80% of Perplexity in under 10 minutes!",
+   "url": "https://www.youtube.com/watch?v=YoWdogtZRw8",
+   "duration_s": 592,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "KmcTu2EigTs",
+   "title": "Learn 95% of ChatGPT Work in Under 20 Minutes",
+   "url": "https://www.youtube.com/watch?v=KmcTu2EigTs",
+   "duration_s": 1175,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "9BdbGZtnFnQ",
+   "title": "LinkedIn: How to Connect Like a Pro",
+   "url": "https://www.youtube.com/watch?v=9BdbGZtnFnQ",
+   "duration_s": 458,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "4Fu23_l9F_o",
+   "title": "Master 80% of Notion with this ONE Feature",
+   "url": "https://www.youtube.com/watch?v=4Fu23_l9F_o",
+   "duration_s": 826,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "Uy6LcpyGj7w",
+   "title": "Master 85% of Google Gemini in 12 Minutes",
+   "url": "https://www.youtube.com/watch?v=Uy6LcpyGj7w",
+   "duration_s": 710,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "FKLr3ft8ea0",
+   "title": "Master Data Analysis with ChatGPT (in just 12 minutes)",
+   "url": "https://www.youtube.com/watch?v=FKLr3ft8ea0",
+   "duration_s": 714,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "bTLmt9BKGVc",
+   "title": "Master Gemini 3.1 for Work in 12 Minutes (2026)",
+   "url": "https://www.youtube.com/watch?v=bTLmt9BKGVc",
+   "duration_s": 778,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "jC4v5AS4RIM",
+   "title": "Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!",
+   "url": "https://www.youtube.com/watch?v=jC4v5AS4RIM",
+   "duration_s": 510,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "Z4vz8aa_vxs",
+   "title": "Mortgage Calculator: A Simple Tutorial (template included)!",
+   "url": "https://www.youtube.com/watch?v=Z4vz8aa_vxs",
+   "duration_s": 467,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "cEEw1AbeysI",
+   "title": "My AI Remembers Everything",
+   "url": "https://www.youtube.com/watch?v=cEEw1AbeysI",
+   "duration_s": 886,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "O_L5M8VojLs",
+   "title": "My Brutally Honest Advice About Joining Google (after 9 years)",
+   "url": "https://www.youtube.com/watch?v=O_L5M8VojLs",
+   "duration_s": 636,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "FXV-zwkRMxo",
+   "title": "My Entire Alfred Workflow: Supercharge Your Mac (for free)!",
+   "url": "https://www.youtube.com/watch?v=FXV-zwkRMxo",
+   "duration_s": 608,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG"
+   ]
+  },
+  {
+   "id": "BVT5EZkb24Q",
+   "title": "My Last Day at Google (after 9 years)",
+   "url": "https://www.youtube.com/watch?v=BVT5EZkb24Q",
+   "duration_s": 475,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "0_dSWLOHKng",
+   "title": "My Simple Claude Cowork System (for normal people)",
+   "url": "https://www.youtube.com/watch?v=0_dSWLOHKng",
+   "duration_s": 1278,
+   "playlists": [
+    "PLo-kPya_Ww2zsTt9-c94kVGa1GVEfivoW",
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "7M6bIeVbCqA",
+   "title": "My Simple Productivity System (for normal people)!",
+   "url": "https://www.youtube.com/watch?v=7M6bIeVbCqA",
+   "duration_s": 424,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "ZEyRtkNmcEQ",
+   "title": "My Top 5 AI Tips for iPhone Users!",
+   "url": "https://www.youtube.com/watch?v=ZEyRtkNmcEQ",
+   "duration_s": 789,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "_uXnyhrqmsU",
+   "title": "NotebookLM Changed Completely: Here's What Matters (in 2026)",
+   "url": "https://www.youtube.com/watch?v=_uXnyhrqmsU",
+   "duration_s": 1231,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "N0hod3YFCy4",
+   "title": "Notion was HARD until I Learned These 8 Tips!",
+   "url": "https://www.youtube.com/watch?v=N0hod3YFCy4",
+   "duration_s": 797,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "M28HPv1l8gY",
+   "title": "Notion Weekly Agenda Template 🌟 📆 Practical & Aesthetic!",
+   "url": "https://www.youtube.com/watch?v=M28HPv1l8gY",
+   "duration_s": 459,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "HdI_aYzgJIg",
+   "title": "Personal Agents, Clearly Explained",
+   "url": "https://www.youtube.com/watch?v=HdI_aYzgJIg",
+   "duration_s": 921,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "URWRc87UQNU",
+   "title": "Personal Finance Tracker for Beginners (template included)!",
+   "url": "https://www.youtube.com/watch?v=URWRc87UQNU",
+   "duration_s": 563,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "sZB8OZoSIyU",
+   "title": "Plan a Productive Day using Notion (Free Template)!",
+   "url": "https://www.youtube.com/watch?v=sZB8OZoSIyU",
+   "duration_s": 459,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "7lIfD9IYHGg",
+   "title": "Plan an ENTIRE Event on Notion (in 9 minutes)!",
+   "url": "https://www.youtube.com/watch?v=7lIfD9IYHGg",
+   "duration_s": 509,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "9OD2HWGTzPA",
+   "title": "Preparing for Interviews: 3 Practical Tips!",
+   "url": "https://www.youtube.com/watch?v=9OD2HWGTzPA",
+   "duration_s": 423,
+   "playlists": []
+  },
+  {
+   "id": "Qhtz_BX625Q",
+   "title": "Productive TWO DAYS In The Life: Chinese New Year Edition",
+   "url": "https://www.youtube.com/watch?v=Qhtz_BX625Q",
+   "duration_s": 332,
+   "playlists": [
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "2MAwSCZYoVw",
+   "title": "Q & A - 1,000 Subscribers!",
+   "url": "https://www.youtube.com/watch?v=2MAwSCZYoVw",
+   "duration_s": 713,
+   "playlists": []
+  },
+  {
+   "id": "jnzh5QTKbsw",
+   "title": "Reach out to Recruiters on LinkedIn (the right way!)",
+   "url": "https://www.youtube.com/watch?v=jnzh5QTKbsw",
+   "duration_s": 387,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "LCiQFwAwJvI",
+   "title": "Run Meetings that Don't Suck (10 Tips)!",
+   "url": "https://www.youtube.com/watch?v=LCiQFwAwJvI",
+   "duration_s": 443,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "LJV-Uuj3RwU",
+   "title": "Send Personalized BULK Emails in Gmail (for FREE)!",
+   "url": "https://www.youtube.com/watch?v=LJV-Uuj3RwU",
+   "duration_s": 410,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2zYYTicVo2UvzWeQr-4WIY6"
+   ]
+  },
+  {
+   "id": "7-xgf536_oc",
+   "title": "Stand Out in the Workplace by Doing THIS!",
+   "url": "https://www.youtube.com/watch?v=7-xgf536_oc",
+   "duration_s": 433,
+   "playlists": [
+    "PLo-kPya_Ww2zYYTicVo2UvzWeQr-4WIY6"
+   ]
+  },
+  {
+   "id": "KcTI98JWLwE",
+   "title": "Starting a New Job? Here's a 90-Day Plan from Harvard",
+   "url": "https://www.youtube.com/watch?v=KcTI98JWLwE",
+   "duration_s": 483,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "peP_o66u-vM",
+   "title": "Stop Organizing Files Yourself.",
+   "url": "https://www.youtube.com/watch?v=peP_o66u-vM",
+   "duration_s": 877,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "-7OIk2ZXBCg",
+   "title": "Tell me a time You Handled a Difficult Situation (Interview Question)",
+   "url": "https://www.youtube.com/watch?v=-7OIk2ZXBCg",
+   "duration_s": 424,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "yidXECtZCOg",
+   "title": "Tell Me About a Time You Failed (Sample Answer included)",
+   "url": "https://www.youtube.com/watch?v=yidXECtZCOg",
+   "duration_s": 381,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "jZJKb-obz1E",
+   "title": "Tell Me About Yourself (The BEST Way to Answer this Interview Question)",
+   "url": "https://www.youtube.com/watch?v=jZJKb-obz1E",
+   "duration_s": 350,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "es7XtrloDIQ",
+   "title": "Tell Me About Yourself - Structure a Strong Answer",
+   "url": "https://www.youtube.com/watch?v=es7XtrloDIQ",
+   "duration_s": 567,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "d_IfQJP3aGU",
+   "title": "Thank you, for watching",
+   "url": "https://www.youtube.com/watch?v=d_IfQJP3aGU",
+   "duration_s": 135,
+   "playlists": []
+  },
+  {
+   "id": "8bZGi3yz4qg",
+   "title": "The 1 Tip to Improve Your Communication Skills at Work",
+   "url": "https://www.youtube.com/watch?v=8bZGi3yz4qg",
+   "duration_s": 400,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "aH9ctWaxGgQ",
+   "title": "The 5 AI Tools You Need After ChatGPT (that do real work)",
+   "url": "https://www.youtube.com/watch?v=aH9ctWaxGgQ",
+   "duration_s": 814,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "GchXMRwuWxE",
+   "title": "The AI Agent Tutorial That Should've Been Your First (no code)",
+   "url": "https://www.youtube.com/watch?v=GchXMRwuWxE",
+   "duration_s": 1018,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "auYFCjU7pBA",
+   "title": "The BEST Productivity Feature in Google Docs!",
+   "url": "https://www.youtube.com/watch?v=auYFCjU7pBA",
+   "duration_s": 332,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "diK9dZulkAs",
+   "title": "The BEST Way to Capture and Organize Web Content in Notion!",
+   "url": "https://www.youtube.com/watch?v=diK9dZulkAs",
+   "duration_s": 487,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "p3840QxlYzc",
+   "title": "The CORRECT way to use ChatGPT (in 2026)",
+   "url": "https://www.youtube.com/watch?v=p3840QxlYzc",
+   "duration_s": 587,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "cTYRwJSOP8U",
+   "title": "The CORRECT way to use Google Gemini",
+   "url": "https://www.youtube.com/watch?v=cTYRwJSOP8U",
+   "duration_s": 597,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "k1DEWUcifPo",
+   "title": "The Introvert's Guide to Networking (for Business)",
+   "url": "https://www.youtube.com/watch?v=k1DEWUcifPo",
+   "duration_s": 423,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "htZRCE2GgIs",
+   "title": "The Only AI Tools You Need (12-Minute Guide)",
+   "url": "https://www.youtube.com/watch?v=htZRCE2GgIs",
+   "duration_s": 716,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "oO9GLC2iKy8",
+   "title": "The Productivity System I Taught to 6,642 Googlers",
+   "url": "https://www.youtube.com/watch?v=oO9GLC2iKy8",
+   "duration_s": 492,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2yHmP-JPyNbgS0OExGDH7DO"
+   ]
+  },
+  {
+   "id": "ZpXN9M0WLQ4",
+   "title": "The Top 1% Build AI Presentations Differently. Here's How.",
+   "url": "https://www.youtube.com/watch?v=ZpXN9M0WLQ4",
+   "duration_s": 773,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "BE-p6965TmE",
+   "title": "The Truth about Full-Time Jobs (when you have a side hustle)",
+   "url": "https://www.youtube.com/watch?v=BE-p6965TmE",
+   "duration_s": 474,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "MM-MPS57qKA",
+   "title": "This Simple File Management System Changed My Life!",
+   "url": "https://www.youtube.com/watch?v=MM-MPS57qKA",
+   "duration_s": 567,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "HT0jiQLT98Y",
+   "title": "This Simple Notes Management System Changed My Life!",
+   "url": "https://www.youtube.com/watch?v=HT0jiQLT98Y",
+   "duration_s": 427,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "YFHqEM4g_Hc",
+   "title": "Top 10 BEST Macbook Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=YFHqEM4g_Hc",
+   "duration_s": 385,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG",
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "UDJkGkzTUYw",
+   "title": "Top 10 Google Doc Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=UDJkGkzTUYw",
+   "duration_s": 564,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "yCmsOc8JzcY",
+   "title": "Top 10 Google Sheets Tips for Productive Professionals!",
+   "url": "https://www.youtube.com/watch?v=yCmsOc8JzcY",
+   "duration_s": 615,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "iU5iweN2IOM",
+   "title": "TOP 12 Google Slides Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=iU5iweN2IOM",
+   "duration_s": 588,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "ewCtvJ4rmJA",
+   "title": "Top 14 Notion Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=ewCtvJ4rmJA",
+   "duration_s": 714,
+   "playlists": [
+    "PLo-kPya_Ww2yQ69AlfI2EMtLUiw_uNPfL"
+   ]
+  },
+  {
+   "id": "2XqSMu9KVY0",
+   "title": "Top 15 Canva Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=2XqSMu9KVY0",
+   "duration_s": 505,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "rs0fLVEM8Ow",
+   "title": "Top 15 Google Photos Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=rs0fLVEM8Ow",
+   "duration_s": 503,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "5B2kPVvyjbU",
+   "title": "Top 20 MacBook Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=5B2kPVvyjbU",
+   "duration_s": 537,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "93exwIKifcw",
+   "title": "Top 3 Tips to STAND OUT on LinkedIn!",
+   "url": "https://www.youtube.com/watch?v=93exwIKifcw",
+   "duration_s": 396,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW"
+   ]
+  },
+  {
+   "id": "2uN8PTXMY5c",
+   "title": "Top 5 ChatGPT Prompts for Job Seekers!",
+   "url": "https://www.youtube.com/watch?v=2uN8PTXMY5c",
+   "duration_s": 491,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "nMu577tlfeg",
+   "title": "Top 5 Google Tasks Tips to Stay Organized!",
+   "url": "https://www.youtube.com/watch?v=nMu577tlfeg",
+   "duration_s": 349,
+   "playlists": [
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "BcfGWi8Qywk",
+   "title": "Top 5 LinkedIn Profile Tips!",
+   "url": "https://www.youtube.com/watch?v=BcfGWi8Qywk",
+   "duration_s": 623,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW",
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "1LOlJay5Sbw",
+   "title": "Top 5 Productivity Tips for Work!",
+   "url": "https://www.youtube.com/watch?v=1LOlJay5Sbw",
+   "duration_s": 442,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "7iyxvfrraoc",
+   "title": "Top 5 Tips to CRUSH Your Next Presentation!",
+   "url": "https://www.youtube.com/watch?v=7iyxvfrraoc",
+   "duration_s": 370,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "B23W1gRT9eY",
+   "title": "Top 6 AI Trends That Will Define 2026 (backed by data)",
+   "url": "https://www.youtube.com/watch?v=B23W1gRT9eY",
+   "duration_s": 793,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "_vhfAn0wb10",
+   "title": "Top 6 Gmail Filters for Productivity!",
+   "url": "https://www.youtube.com/watch?v=_vhfAn0wb10",
+   "duration_s": 540,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "DPWVEL4UNi0",
+   "title": "Top 7 Gmail Tips for Productivity 📧",
+   "url": "https://www.youtube.com/watch?v=DPWVEL4UNi0",
+   "duration_s": 463,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "Q07rFZtc2Ao",
+   "title": "Top 8 ChatGPT Productivity Tips for Work!",
+   "url": "https://www.youtube.com/watch?v=Q07rFZtc2Ao",
+   "duration_s": 566,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  },
+  {
+   "id": "KXY-2fIAksY",
+   "title": "Top 8 Productivity Tips for Google Chrome",
+   "url": "https://www.youtube.com/watch?v=KXY-2fIAksY",
+   "duration_s": 499,
+   "playlists": [
+    "PLo-kPya_Ww2zB8GGyTmZdV9yhouquFUBS"
+   ]
+  },
+  {
+   "id": "xhEr6ONZF6A",
+   "title": "Top 9 Google Drive Tips for Productivity!",
+   "url": "https://www.youtube.com/watch?v=xhEr6ONZF6A",
+   "duration_s": 527,
+   "playlists": [
+    "PLo-kPya_Ww2yGaxjUQxUK4zFv76eM-Nzj",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "PIGraFbLEvY",
+   "title": "Ultimate Guide to the Shortcuts App (for the Mac)!",
+   "url": "https://www.youtube.com/watch?v=PIGraFbLEvY",
+   "duration_s": 482,
+   "playlists": [
+    "PLo-kPya_Ww2zMWvqbdy1uoJ0IrJ2xyVQG"
+   ]
+  },
+  {
+   "id": "jSjOO0ekQ20",
+   "title": "What are Your Greatest Strengths - 3 Mistakes to Avoid!",
+   "url": "https://www.youtube.com/watch?v=jSjOO0ekQ20",
+   "duration_s": 440,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "6ehslpTtlEo",
+   "title": "What is Your Biggest Weakness? (Ace this Interview Question!)",
+   "url": "https://www.youtube.com/watch?v=6ehslpTtlEo",
+   "duration_s": 305,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "84kPR_NDjI8",
+   "title": "What Makes a GREAT Manager? (it’s not what you think)",
+   "url": "https://www.youtube.com/watch?v=84kPR_NDjI8",
+   "duration_s": 441,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "NL-pmvydNe8",
+   "title": "What Product Marketers ACTUALLY Do in Tech Companies!",
+   "url": "https://www.youtube.com/watch?v=NL-pmvydNe8",
+   "duration_s": 460,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "ClmHniKlt6k",
+   "title": "Where Do You See Yourself in 5 Years - How to Answer",
+   "url": "https://www.youtube.com/watch?v=ClmHniKlt6k",
+   "duration_s": 370,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "mi2vCsP1oKY",
+   "title": "Why 90% of AI Presentations Fail (do this instead)",
+   "url": "https://www.youtube.com/watch?v=mi2vCsP1oKY",
+   "duration_s": 797,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "-HfeTdf2gSw",
+   "title": "Why Are You a Good Fit for this Role - How to Answer",
+   "url": "https://www.youtube.com/watch?v=-HfeTdf2gSw",
+   "duration_s": 388,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "QSPGdAvnUv4",
+   "title": "Why Are You Leaving Your Current Job? How to Answer Correctly",
+   "url": "https://www.youtube.com/watch?v=QSPGdAvnUv4",
+   "duration_s": 436,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "tPlJjtQkpM0",
+   "title": "Why Did You Leave Your Last Job? (explain a layoff)",
+   "url": "https://www.youtube.com/watch?v=tPlJjtQkpM0",
+   "duration_s": 259,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "x-4MewJpaso",
+   "title": "Why Do You Want to Work Here? (Answer this Tricky Question)",
+   "url": "https://www.youtube.com/watch?v=x-4MewJpaso",
+   "duration_s": 514,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "xudcyY06PiI",
+   "title": "Why Your Cover Letter Gets Rejected (5 MISTAKES TO AVOID)",
+   "url": "https://www.youtube.com/watch?v=xudcyY06PiI",
+   "duration_s": 417,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "N1Fm4JYae1I",
+   "title": "Write a Killer Résumé in the AI Era: 5 New Rules!",
+   "url": "https://www.youtube.com/watch?v=N1Fm4JYae1I",
+   "duration_s": 789,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "gSbV3q_MMbg",
+   "title": "Write a PERFECT Interview Thank You Email!",
+   "url": "https://www.youtube.com/watch?v=gSbV3q_MMbg",
+   "duration_s": 341,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "SfXntQxI98w",
+   "title": "Write a Project Recap People Actually Want to Read",
+   "url": "https://www.youtube.com/watch?v=SfXntQxI98w",
+   "duration_s": 456,
+   "playlists": [
+    "PLo-kPya_Ww2w4RlobGOyIebv7cMcvaDz9"
+   ]
+  },
+  {
+   "id": "NUhDP30IRKk",
+   "title": "Write an Amazing Cover Letter: 3 Golden Rules (Template included)",
+   "url": "https://www.youtube.com/watch?v=NUhDP30IRKk",
+   "duration_s": 446,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "Tt08KmFfIYQ",
+   "title": "Write an Incredible Resume: 5 Golden Rules!",
+   "url": "https://www.youtube.com/watch?v=Tt08KmFfIYQ",
+   "duration_s": 517,
+   "playlists": [
+    "PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z"
+   ]
+  },
+  {
+   "id": "5hNsdH6Y2Mg",
+   "title": "Write an OUTSTANDING LinkedIn Summary (with Examples)!",
+   "url": "https://www.youtube.com/watch?v=5hNsdH6Y2Mg",
+   "duration_s": 391,
+   "playlists": [
+    "PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW"
+   ]
+  },
+  {
+   "id": "j63bBK_ct-M",
+   "title": "You're Not Behind: Become AI-Native (without the overwhelm)",
+   "url": "https://www.youtube.com/watch?v=j63bBK_ct-M",
+   "duration_s": 611,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR",
+    "PLo-kPya_Ww2y8zKNUJLVbxEoLUHYk6k2i"
+   ]
+  },
+  {
+   "id": "QrmDmQ7ZivM",
+   "title": "You’re Not Unqualified: How to Pass 90% of Your Interviews",
+   "url": "https://www.youtube.com/watch?v=QrmDmQ7ZivM",
+   "duration_s": 362,
+   "playlists": [
+    "PLo-kPya_Ww2wLc0USlqpuN_OAtJjc6qoP"
+   ]
+  },
+  {
+   "id": "Y35EHDRNUeo",
+   "title": "You’re using ChatGPT wrong",
+   "url": "https://www.youtube.com/watch?v=Y35EHDRNUeo",
+   "duration_s": 571,
+   "playlists": [
+    "PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR"
+   ]
+  }
+ ]
+}
