@@ -1,0 +1,10 @@
+{
+  "exported_at_ist": "2026-10-26 (refreshed ~18:05 IST, tail 4100)",
+  "corpus_file": "corpus/BEST-IDEAS.md",
+  "corpus_size_bytes": 3254251,
+  "live_records": 12,
+  "live_db": "live-memory/memory.db (SQLite, also dumped as memory.json)",
+  "code_note": "Brain code in code/mm/ (<1 MB core). Large eval datasets excluded - regenerable via code/evals/. Secrets NOT included: Telegram token and phone pairing live in ~/.config/ai-memory/ (mode 600) and must move separately, never in a plain zip.",
+  "restore": "1) Unzip anywhere. 2) python3 -m pip not needed - stdlib only for core. 3) Copy live-memory/memory.db to ai-memory-milestone/data/memory.db. 4) Copy corpus/BEST-IDEAS.md back to goal workspace. 5) Run tests: python3 -m pytest tests/ or the test files directly.",
+  "corpus_tail": 4100
+}
