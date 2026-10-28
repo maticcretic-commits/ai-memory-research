@@ -1416,3 +1416,15 @@ Round 8 synthesis written at rounds/2026-10-28-round8/SYNTHESIS.md (13,712 bytes
   verification outstanding, no site cleared; Phase 3 (still blocked).
   Experiments run: still 0. No new browser tasks, sign-ins, sends, or
   publishes from this briefing job.
+
+## 2026-10-28 ~09:18 IST — pushed to a private GitHub repo
+
+On Nitesh's tap, the full workspace was pushed to the private repo
+maticcretic-commits/ai-memory-research (created private; 235 files: 232 text
+files via the contents API + 3 binaries via direct contents-API upload).
+Tree verification PASSED: 235 remote blobs, 0 missing, 0 extra, 0 SHA
+mismatches against local git blob hashes. `_scratch/` extraction artefacts
+were intentionally excluded. A root README.md was added describing the
+archive, its navigation, and its governance. No live secrets in the push:
+the pre-push scan found only redacted placeholders and test fixtures in the
+source export's own red-team tests. The zip remains the offline copy.
