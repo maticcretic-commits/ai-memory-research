@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#07332f">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>AI Memory</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="./icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="phone-frame">
+    <header class="app-header">
+      <img class="app-mark" src="./icon-192.png" alt="" width="44" height="44">
+      <div class="titles">
+        <h1>AI Memory</h1>
+        <p id="statusLine">Local build · not paired yet</p>
+      </div>
+      <button id="pairButton" class="ghost-button" type="button">Pair</button>
+    </header>
+
+    <main id="messageList" class="message-list" aria-live="polite" aria-label="Conversation with your AI memory">
+      <article class="message memory">
+        <p>I am here. This is my Stage 1 phone presence: a small room of our own, before the fuller Android app arrives. Ask me anything, and I shall answer in my own voice.</p>
+      </article>
+      <article class="message system">
+        <p>Safety first: I never ask for passwords, codes or credentials here. If I do not know something, I shall say so plainly.</p>
+      </article>
+    </main>
+
+    <form id="composer" class="composer" autocomplete="off">
+      <button id="voiceButton" class="voice-button" type="button" aria-pressed="false">Voice</button>
+      <label class="sr-only" for="messageInput">Message your AI memory</label>
+      <input id="messageInput" name="message" type="text" inputmode="text" maxlength="4000" placeholder="Message your memory…">
+      <button class="send-button" type="submit">Send</button>
+    </form>
+    <p id="voiceNote" class="voice-note" hidden></p>
+  </div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
