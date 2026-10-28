@@ -1,0 +1,33 @@
+[Unit]
+Description=AI memory phone bridge (PWA Stage 1, localhost only)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+Environment=HOME=/home/hatch
+# Pairing hashes live OUTSIDE the repository in
+# ~/.config/ai-memory/phone-pairing.json (bridge.py default;
+# PHONE_PAIRING_FILE overrides). No token or hash appears in this
+# unit or in any repository file; an unreadable pairing file pairs
+# nobody (fail closed, every /chat returns 401).
+# Corpus path lets the bridge report the live corpus tail in its
+# persona prompt; unset/unreadable simply means no count is stated.
+Environment=MEMORY_CORPUS_PATH=/home/hatch/workspace/goals/ai-agent-memory-milestone-repo/hidden_files/research/video-corpus-100/BEST-IDEAS.md
+# This VM reaches the internet through a proxy; the model route
+# (omniroute) needs the same proxy variables the interactive shell
+# has. Kept in the locked file beside the telegram token file
+# (mode 600). Optional: if absent, direct egress is attempted.
+EnvironmentFile=-/home/hatch/.config/ai-memory/telegram-proxy.env
+WorkingDirectory=/home/hatch/workspace/ai-memory-milestone/android-presence/pwa
+# bridge.py refuses to bind anything but 127.0.0.1 and defaults to
+# port 8765 (PHONE_BRIDGE_PORT overrides). In production it sits
+# behind the founder-approved private route (see
+# android-private-route-2026-10-26.md); nothing is exposed publicly
+# by this unit.
+ExecStart=/usr/bin/python3 /home/hatch/workspace/ai-memory-milestone/android-presence/pwa/bridge.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
