@@ -1,0 +1,27 @@
+# AI Memory Research — Round 7 RE-RUN, LANE 3 ONLY: Frozen telemetry acceptance protocol
+
+System under study: "Memory Milestone (mm)", memory → DECISION, not just memory → context. Its own record (25 Oct 2026): 829 tests green, LongMemEval-S R@1 0.712 / MRR 0.797, six red-team rounds to zero critical attack success in the final round. Honest gaps: calibration gate (a) still FAIL (underconfident agent path), zero real production decision pairs, proactive speech as gated proposals only, no sending channel. Experiments run in this programme: still 0. Every lock so far is a commitment, not a result. Fail-closed is the default: silence, delay, or a missing signature never counts as approval.
+
+Round 6 settled the governance rules but left the package governed, not executable: owners are missing in every lane. Round 7 must produce the records Round 6 names. Do NOT propose a new rule, lock, or experiment design. Produce the draft record assigned below, in a form that could be signed, frozen, or audited. Where the record cannot be completed from the evidence supplied, leave the field explicitly UNRESOLVED or UNKNOWN, with the exact record that would complete it. Never invent a named individual, an appointing body, a numeric value, a gate status, or a measured result. A placeholder marked TBD is honest; an invented name or number is fabrication and will be discarded.
+
+This brief contains ONE lane only. There is no other lane's task in this brief. Answer only the frozen telemetry acceptance protocol below. Do not substitute any other lane's work. If you cannot answer it, say INCOMPLETE and name every TBD/UNRESOLVED field; do not answer a different question instead.
+
+## Primary record supplied — the Round 6 telemetry settlement (faithful condensed text)
+
+Judge only what is in this text. If a point cannot be judged from it, say so and name the missing evidence.
+
+C. Telemetry compromise (Gemini). Coherent ONLY as a bounded recalibration probe, not a permanent return to explicit feedback; UNLOCKED, owner unassigned (needs a Lead Telemetry & Evaluation Architect). Design: one 3-way choice at the point of failure by the active in-situ user — Outdated/Superseded, Factually Wrong, Bad Timing/Interruptive — on an explicit undo, manual override, or latency >2.5x the running baseline; non-modal micro-toast / 1-key hotkey, auto-dismiss after 3 seconds; ~300ms–800ms per sampled anomaly, <1.5% of session time, capped at 3 prompts per user per 15 minutes. Start: 10-interaction response-time variance σ²_RT > θ_variance, OR ≥3 consecutive rejections. Stop: variance below θ_variance over 15 interactions, OR N=50 labelled events for that parameter cluster. Validation: triggered-phase label distributions vs a control receiving constant random micro-prompts (1% sample); if proportions match while task completion stays within ±2% of the passive baseline, the measurement reflects the pipeline, not the artefact. Reason unlocked: θ_variance and the maximum prompt latency cap are uncalibrated against live baselines. Alternatives if rejected: (A) accept the why-gap, 100% passive telemetry, treat spikes as timing first; (B) full observer-controlled out-of-band labelling study (replay annotation + dual-blind validation).
+
+## Round 5 locks the record must respect (telemetry-relevant only)
+
+Gemini pivot triggers: abandon active labels if prompts slow the primary task >15% or intra-rater κ <0.70 after ten interactions; the telemetry why-gap is the cost of skipping labels.
+
+## Your lane
+
+Answer ONLY the lane below, in 700–1000 words, plus Top 5 findings and Top 3 open questions at the end. State at the top, in one line, whether your draft record is COMPLETE, COMPLETE-WITH-TBD-FIELDS, or INCOMPLETE, and name every field that remains TBD or UNRESOLVED. Do not claim a record is signed, appointed, calibrated, or validated when it is only drafted.
+
+LANE 3 — Gemini: Frozen telemetry acceptance protocol. Turn settlement C into a frozen protocol that could be pre-registered before any run: exact prompt wording for the 3-way choice, exact injection moment, skip behaviour, exposure to system advice (what the user sees and does not see), separation of observed events from inferred motives, four declared measures (primary-task performance, repeated-use label quality, inappropriate reliance, end-to-end delay) with acceptance criteria stated BEFORE results, random-prompt control comparison, and the falsifiers from settlement E. For θ_variance and the maximum prompt latency cap, do NOT invent values: specify the calibration procedure that would set them from live baselines (what data, how many sessions/interactions, how computed, who approves the frozen values, what happens if baselines cannot be collected). Keep the start/stop triggers, N=50 cap, and 3-per-15-minutes cap exactly as in C. Owner field: UNASSIGNED pending the Lead Telemetry & Evaluation Architect.
+
+## Standing round rules
+
+This re-run is authorised for the maticcretic@gmail.com account, switched on Nitesh's order. If the signed-in account is not maticcretic@gmail.com, stop and report the mismatch plainly; do not send the brief under another account. Bot check / region wall / CAPTCHA = sit out, reported plainly. Return the full reply text plus the account and model shown and the chat URL. Individual work only. Verify every claim, mark anything uncertain as uncertain, plain language. No publish, send, payment, or Terms acceptance is authorised by this round.
